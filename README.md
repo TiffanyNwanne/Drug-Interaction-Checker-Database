@@ -1,6 +1,6 @@
 # Drug Interaction Checker Database Management Report
 
-![supabase-schema-tianvewzfaachzwxnbyi.png](Drug%20Interaction%20Checker%20Database%20Management%20Repor%201984799bb26780fb95c6d549f197b8c9/supabase-schema-tianvewzfaachzwxnbyi.png)
+[![supabase-schema-tianvewzfaachzwxnbyi.png](https://github.com/TiffanyNwanne/Drug-Interaction-Checker-Database/blob/main/DB%20SCHEMA.png))](https://github.com/TiffanyNwanne/Drug-Interaction-Checker-Database/blob/main/DB%20SCHEMA.png)
 
 ## **1. Introduction**
 
