@@ -4,7 +4,7 @@
 
 ## **1. Introduction**
 
-The Drug Interaction Checker app is designed to help users identify potential drug interactions, categorize medications, and provide relevant warnings. To support this functionality, a relational database was created in **PostgreSQL** on **Supabase**, ensuring data integrity, scalability, and efficient querying.
+The Drug Interaction Checker app is designed to help users identify potential drug interactions, categorize medications, and provide relevant warnings. To support this functionality, a relational database was created with **PostgreSQL** , ensuring data integrity, scalability, and efficient querying.
 
 This report outlines the **database schema design**, **table relationships**, and the rationale behind the chosen structure.
 
